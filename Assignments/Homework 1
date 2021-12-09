@@ -38,4 +38,13 @@ Problem 7. Use the following information and Goal Seek to find what value of d g
 deflection of 1mm. Your results should look like the sample below the problem description. Use
 the convert function for ALL unit conversions.
 
+Problem 8:
+The equivalent letter grades for numerical values of points is given in the table below.
+PointsLetter Grade
+100-90 A
+89-80 B
+79-70 C
+69-60 D
+Less than 60 F
+
 
