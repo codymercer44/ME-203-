@@ -1,31 +1,41 @@
-# Class - Assignment Title 
+# Homework 1
 
-## Description 
+Problem 1. A projectile is launched at an angle of 55 degrees from the horizontal with a velocity
+of 30m/s. Neglecting air resistance and assuming a horizontal surface, determine the following:
+a. How far away from the launch site the projectile will land.
+b. The maximum height the projectile will reach. (Hint: Max height is reached at half the time
+of flight)
 
-A short description of your assignment
 
-### Why this assignment?
+Problem 2. Create a table that shows the conversion of degrees to radians for 0-360 degrees
+counting by 10 degrees. Show a table and XY scatter plot with a trend line and equations, axis
+labels and a title.
 
-A short description that hits home as to why this assignment is important to do. 
+Problem 3. You are buying a car that costs $15,000. The bank secured a loan at 6% interest,
+which you have to pay off in 60 months.
+a. Calculate the monthly payment using the built in PMT function.
+b. You find the payment in part (a) to be too high. You can afford only a monthly payment of
+$225. How many monthly payments of $225 will you need to make until the loan is paid off?
+(Use Goal Seek).
 
-## Project requirements
+Problem 4. A “stiff” spring is one that gets stronger the more it is compressed, unlike a linear
+spring for which the spring constant is constant. Suppose the force in a stiff spring is defined by
+the function F(x) = kx+mx3, where x is the amount of compression, k= 500 N/m and m=10,000
+N/m3. Using the Solver function, find the compression x (meters) of the spring if a force of 250
+N is applied.
 
-Describe the requirements of this assignment.
+Problem 5. Use Excel Solver function to find a local maximum of the following function:
+x4-x3-7x2+x+6. Show your work before and after.
 
-### Deliverable
 
-Describe what is due, file, type, link to repo etc. 
+Problem 6. Your boss at NASA has asked you to design a cylindrical tank for storing cryogenic
+propellant. The tank should be able to hold 2000 liters of the propellant. The tank should have
+minimum possible surface area to minimize heat transfer with the surroundings. Use Solver
+function to determine the radius (r) and height (h) of the tank.
 
-### Due date
 
-Date this project is due
-
-## What is this assignment 
-
-Detailed description... 
-
-## Assessing the assignment
-
-[Assignment Name Rubric](./assignment-rubric.md)
+Problem 7. Use the following information and Goal Seek to find what value of d gives a
+deflection of 1mm. Your results should look like the sample below the problem description. Use
+the convert function for ALL unit conversions.
 
 
